@@ -1,4 +1,4 @@
-var numToCheck = 600851475143;
+var a = 600851475143;
 var i=2;
 
 while(i <= a)
